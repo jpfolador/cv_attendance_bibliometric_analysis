@@ -1,0 +1,1017 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Grover, V
+   Chhabra, N
+AF Grover, Vaibhav
+   Chhabra, Nishtha
+GP IEEE
+TI Attendance Monitoring System Through Face Recognition
+SO PROCEEDINGS OF THE 2019 6TH INTERNATIONAL CONFERENCE ON COMPUTING FOR
+   SUSTAINABLE GLOBAL DEVELOPMENT (INDIACOM)
+LA English
+DT Proceedings Paper
+CT 6th International Conference on Computing for Sustainable Global
+   Development (INDIACom)
+CY MAR 13-15, 2019
+CL Bharati Vidyapeeth, New Delhi, INDIA
+SP IEEE Delhi Sect, GGSIP Univ, SERB, Govt India, Minist Sci & Technol, Dept Sci & Technol, Council Sci & Ind Res, All India Council Tech Educ, Inst Elect & Telecommunicat Engineers, IET, Jagdishprasad Jhabarmal Tibrewala Univ, Delhi Local Networks
+HO Bharati Vidyapeeth
+DE Face Recognition; Attendance Monitoring System; Dlib Library;
+   Biometrics; Accuracy
+AB Attendance plays a vital role of student participation for classroom evaluation while monitoring attendance is a tedious task when done manually via calling out unique ids(names) or regulating attendance sheet which is both time-consuming and more chances of proxies. From substitute, wireless, RFID, iris, fingerprint; facial recognition wins over. The main objective of this research paper is to develop an automatic attendance monitoring system through face detection and recognition. Challenges for face recognition like facial expressions, change in hairstyles, the presence of some object or intensity of light can be tackled. The proposed system is tested on students at college campus and system identifies faces at a very fast rate with accuracy 99.3% using Dlib and face recognition libraries.
+C1 [Grover, Vaibhav; Chhabra, Nishtha] HMR Inst Technol & Management, Dept Comp Sci & Engn, New Delhi, India.
+C3 HMR Institute of Technology & Management
+RP Grover, V (corresponding author), HMR Inst Technol & Management, Dept Comp Sci & Engn, New Delhi, India.
+EM vaibhav.grover18@gmail.com; nishthachhabra07@gmail.com
+CR Abdel-Ghaffar Eman A., 2008, 2008 International Conference on Computer Engineering & Systems (ICCES '08), P95, DOI 10.1109/ICCES.2008.4772974
+   Ahonen T, 2004, LECT NOTES COMPUT SC, V3021, P469
+   [Anonymous], 2014, INT J COMPUTATIONAL
+   Bhushan B., 2017, 2017 INT C SIGN PROC, DOI [10.1109/cspc.2017.8305856, DOI 10.1109/CSPC.2017.8305856]
+   Bhushan B, 2019, STUD COMPUT INTELL, V776, P215, DOI 10.1007/978-3-662-57277-1_10
+   Bhushan B, 2018, WIRELESS PERS COMMUN, V98, P2037, DOI 10.1007/s11277-017-4962-0
+   Bhushan Bharat, 2017, 2017 3rd International Conference on Advances in Computing, Communication & Automation (ICACCA)(Fall), P1, DOI [DOI 10.1109/ICACCAF.2017.8344724, DOI 10.1007/978-3-662-54357-3_1]
+   Buhmann J., 1990, IJCNN International Joint Conference on Neural Networks (Cat. No.90CH2879-5), P411, DOI 10.1109/IJCNN.1990.137747
+   Dhavalikar AS, 2014, 2014 INTERNATIONAL CONFERENCE ON ELECTRONICS AND COMMUNICATION SYSTEMS (ICECS)
+   Faruqe MO, 2009, PROCEEDINGS OF THE 3RD INTERNATIONAL CONFERENCE ON ANTI-COUNTERFEITING, SECURITY, AND IDENTIFICATION IN COMMUNICATION, P97, DOI 10.1109/ICASID.2009.5276938
+   Jaitly S., 2017, 2017 INT C COMP COMM, DOI [10.1109/comptelix.2017.8004033, DOI 10.1109/COMPTELIX.2017.8004033]
+   Kaushik Keshav, 2015, INT J ADV TECHNOLOGY, V3
+   Kumar Ravinder, 2014, International Journal of Computational Intelligence Studies, V3, P292, DOI 10.1504/IJCISTUDIES.2014.067032
+   Kumar R., 2013, MOB COMMUN INT, V296, P86, DOI [10.1007/978-3-642-35864-7_12, DOI 10.1007/978-3-642-35864-7_12]
+   KUMAR R, 2012, INT J COMPUTER APPL, V5, DOI DOI 10.1142/S1793557112500052
+   Kumar R, 2016, J INF PROCESS SYST, V12, P83, DOI 10.3745/JIPS.02.0020
+   Kumar Ravinder, HDB RES NETWORK FORE, P416, DOI [10.4018/978-1-5225-4100-4.ch022, DOI 10.4018/978-1-5225-4100-4.CH022]
+   LADES M, 1993, IEEE T COMPUT, V42, P300, DOI 10.1109/12.210173
+   Li H., 2016, 2016 12 INT C NAT CO, DOI [10.1109/fskd.2016.7603310, DOI 10.1109/FSKD.2016.7603310]
+   Lukas S., 2016, 2016 INT C INF COMM, DOI [10.1109/ictc.2016.7763360, DOI 10.1109/ICTC.2016.7763360]
+   Okada K., 1998, FACE RECOGNITION, P186
+   Qasim N. A. I. Q. S. Z. Rameez, 2013, COMP IMPROVEMENT PCA
+   Shi K., 2012, 2012 2 INT C CONS EL, DOI [10.1109/cecnet.2012.6201994, DOI 10.1109/CECNET.2012.6201994]
+   Sinha P., 2017, P 2017 INT C SIGN PR, DOI [10.1109/cspc.2017.8305855, DOI 10.1109/CSPC.2017.8305855]
+   Siswanto A. R., 2014, 2014 INT C ICT SMART, DOI [10.1109/ictss.2014.7013165, DOI 10.1109/ICTSS.2014.7013165]
+   Tian Xuehong, 2009, 2009 1st International Conference on Information Science and Engineering (ICISE 2009), P1244, DOI 10.1109/ICISE.2009.583
+   Varadharajan E, 2016, PROCEEDINGS OF 2016 ONLINE INTERNATIONAL CONFERENCE ON GREEN ENGINEERING AND TECHNOLOGIES (IC-GET)
+   Viola P, 2004, INT J COMPUT VISION, V57, P137, DOI 10.1023/B:VISI.0000013087.49260.fb
+   Wiskott L, 1997, IEEE T PATTERN ANAL, V19, P775, DOI 10.1109/34.598235
+   Zhao W, 2003, ACM COMPUT SURV, V35, P399, DOI 10.1145/954339.954342
+NR 30
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-93-80544-34-2
+PY 2019
+BP 179
+EP 183
+PG 5
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BP3QH
+UT WOS:000548605000037
+DA 2025-01-28
+ER
+
+PT C
+AU Tsai, MF
+   Li, MH
+AF Tsai, Ming-Fong
+   Li, Min-Hao
+GP IEEE
+TI Attendance Monitoring System based on Artificial Intelligence Facial
+   Recognition Technology
+SO 2021 IEEE INTERNATIONAL CONFERENCE ON CONSUMER ELECTRONICS-TAIWAN,
+   ICCE-TW
+SE IEEE International Conference on Consumer Electronics-Taiwan
+LA English
+DT Proceedings Paper
+CT 8th IEEE International Conference on Consumer Electronics-Taiwan
+   (ICCE-TW) - Driving World to 5G and Beyond with Consumer Technology
+CY SEP 15-17, 2021
+CL Natl Penghu Univ Sci & Technol, Penghu, TAIWAN
+SP Inst Elect & Elect Engineers, Taiwan Consumer Elect Soc, IEEE Consumer Technol Soc, Minist Sci & Technol, Bur Foreign Trade, Minist Econ Affairs
+HO Natl Penghu Univ Sci & Technol
+DE Artificial Intelligence; Facial Recognition; Attendance Monitoring
+   System
+AB Attendance monitoring is a basic system that is required for the operation of a company. However, traditional paper-based clock-in devices and radio frequency identification methods cannot avoid consigning others to the punch card problem. This paper therefore presents an attendance monitoring system based on Artificial Intelligence (AI) facial recognition technology. The proposed system uses a deep learning Tensorflow framework to build a face recognition model that can detect images in real time and upload this information to a cloud server. Our face recognition system can be used to store 'punch card' records as part of an attendance monitoring system.
+C1 [Tsai, Ming-Fong; Li, Min-Hao] Natl United Univ, Dept Elect Engn, Miaoli, Taiwan.
+C3 National United University
+RP Tsai, MF (corresponding author), Natl United Univ, Dept Elect Engn, Miaoli, Taiwan.
+EM mingfongtsai@gmail.com
+RI Li, Minhao/HKO-2254-2023
+FU Ministry of Science and Technology of Taiwan, Bureau of Industry,
+   Ministry of Economic Affairs and Chumpower Machinery Corporation
+FX We thank the Ministry of Science and Technology of Taiwan, Bureau of
+   Industry, Ministry of Economic Affairs and Chumpower Machinery
+   Corporation for supports of this project. We thank co-authors and
+   reviewers for their valuable opinions.
+CR Bah S., 2020, Array, V5, P1
+   Derkar P., 2021, Advances in Signal and Data Processing, V703, P1
+   Harikrishnan J., 2019, IEEE INT C VIS EM TR, P1
+   Khan S, 2020, WIRELESS PERS COMMUN, V113, P469, DOI 10.1007/s11277-020-07224-2
+   Sawarkar M., 2020, International Research Journal of Engineering and Technology, V7, P4405
+   Wu Y., 2020, TAIW AC NETW C, P1
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2575-8276
+BN 978-1-6654-3328-0
+J9 IEEE INT C ELECTR TA
+PY 2021
+DI 10.1109/ICCE-TW52618.2021.9603093
+PG 2
+WC Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering
+GA BX8JM
+UT WOS:001331778400169
+DA 2025-01-28
+ER
+
+PT C
+AU Bhattacharya, S
+   Nainala, GS
+   Das, P
+   Routray, A
+AF Bhattacharya, Shubhobrata
+   Nainala, Gowtham Sandeep
+   Das, Prosenjit
+   Routray, Aurobinda
+BE Chang, M
+   Chen, NS
+   Huang, R
+   Kinshuk
+   Moudgalya, K
+   Murthy, S
+   Sampson, DG
+TI Smart Attendance Monitoring System (SAMS): A Face Recognition based
+   Attendance System for Classroom Environment
+SO 2018 IEEE 18TH INTERNATIONAL CONFERENCE ON ADVANCED LEARNING
+   TECHNOLOGIES (ICALT 2018)
+SE IEEE International Conference on Advanced Learning Technologies
+LA English
+DT Proceedings Paper
+CT 18th IEEE International Conference on Advanced Learning Technologies
+   (ICALT)
+CY JUL 09-13, 2018
+CL Indian Inst Technol Bombay, Bombay, INDIA
+SP IEEE Comp Soc, IEEE Tech Comm Learning Technol
+HO Indian Inst Technol Bombay
+DE Attendance Monitoring; Face Quality Assessment; Face Recognition
+AB In present academic system, regular class attendance of students' plays a significant role in performance assessment and quality monitoring. The conventional methods practised in most of the institutions are by calling names or signing on papers, which is highly time-consuming and insecure. This article presents the automatic attendance management system for convenience or data reliability. The system is developed by the integration of ubiquitous components to make a portable device for managing the students' attendance using Face Recognition technology.
+C1 [Bhattacharya, Shubhobrata; Nainala, Gowtham Sandeep; Das, Prosenjit; Routray, Aurobinda] IIT Kharagpur, Kharagpur, W Bengal, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Kharagpur
+RP Bhattacharya, S (corresponding author), IIT Kharagpur, Kharagpur, W Bengal, India.
+CR Bhalla V., 2013, INT J INNOVATIONS EN, V3, P227
+   Bruner C., 2011, Chronic elementary absenteeism: A problem hidden in plain sight
+   Epstein JL, 2002, J EDUC RES, V95, P308, DOI 10.1080/00220670209596604
+   Jain S. K., 2011, ATTENDANCE MANAGEMEN
+   Joardar S, 2015, IEEE T INSTRUM MEAS, V64, P959, DOI 10.1109/TIM.2014.2374713
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Mahat S. S., 2015, INT J RES IT MANAGEM, V5, P72
+   McCluskey CP, 2004, CRIME DELINQUENCY, V50, P214, DOI 10.1177/0011128703258942
+   Nasrollahi K, 2009, IET SIGNAL PROCESS, V3, P289, DOI 10.1049/iet-spr.2008.0172
+   Ready DD, 2010, SOCIOL EDUC, V83, P271, DOI 10.1177/0038040710383520
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Viola P, 2004, INT J COMPUT VISION, V57, P137, DOI 10.1023/B:VISI.0000013087.49260.fb
+NR 12
+TC 14
+Z9 16
+U1 1
+U2 13
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2161-3761
+BN 978-1-5386-6049-2
+J9 IEEE INT CONF ADV LE
+PY 2018
+BP 358
+EP 360
+DI 10.1109/ICALT.2018.00090
+PG 3
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Cybernetics; Computer Science, Information Systems; Computer Science,
+   Theory & Methods; Education & Educational Research
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Computer Science; Education & Educational Research
+GA BP2LB
+UT WOS:000543010500095
+DA 2025-01-28
+ER
+
+PT C
+AU Mothwa, L
+   Tapamo, JR
+   Mapayi, T
+AF Mothwa, Louis
+   Tapamo, Jules-Raymond
+   Mapayi, Temitope
+BE DiBaja, GS
+   Gallo, L
+   Yetongnon, K
+   Dipanda, A
+   CastrillonSantana, M
+   Chbeir, R
+TI Conceptual Model of the Smart Attendance Monitoring System Using
+   Computer Vision
+SO 2018 14TH INTERNATIONAL CONFERENCE ON SIGNAL IMAGE TECHNOLOGY & INTERNET
+   BASED SYSTEMS (SITIS)
+LA English
+DT Proceedings Paper
+CT 14th International Conference on Signal Image Technology & Internet
+   Based Systems (SITIS)
+CY NOV 26-29, 2018
+CL Las Palmas de Gran Canaria, SPAIN
+SP IEEE Comp Soc, Univ Las Palmas Gran Canaria, Univ Milan, Univ Bourgogne, Laboratoire Electronique Image Informatique Res Grp, Natl Res Council Italy, Inst High Performance Comp & Networking, IEEE, Special Interest Grp Seman Multimedia Management, ACM SIGAPP fr, Special Interest Grp Appl Comp, French Chapter, Patronato Turismo Gran Canaria
+DE Multi-Camera Architecture; Time Integration; Face Recognition
+AB The monitoring of student attendance remains a fundamental and vital part of any educational institution. Although some automated biometric-based attendance monitoring systems have been proposed in the literature, poor system modeling has negatively affected their performance. There is, hence, a need to address the various needs associated with the development of an AI-based attendance monitoring system. This paper proposes the conceptual model for a smart attendance monitoring system that uses face recognition to monitor students' attendance during lectures. The front and back-end system architectures, as well as a full view multi-camera structure aimed at effectively capturing and detecting of faces, are presented. Thee different feature extraction techniques-PCA, LDA, LBP and a combination of PCA and LDA were investigated. The model achieved a recognition accuracy of 90%.
+C1 [Mothwa, Louis; Tapamo, Jules-Raymond] Univ KwaZulu Natal, Sch Engn, Durban, South Africa.
+   [Mapayi, Temitope] Mangosuthu Univ Technol, Dept Elect Engn, Durban, South Africa.
+C3 University of Kwazulu Natal; Mangosuthu University of Technology
+RP Mothwa, L (corresponding author), Univ KwaZulu Natal, Sch Engn, Durban, South Africa.
+EM louismothwaa@gmail.com; tapamoj@ukzn.ac.za; mapayi.temitope@mut.ac.za
+CR Aburomman AA, 2016, Adv Inform Managemen, P636, DOI 10.1109/IMCEC.2016.7867287
+   Anand S, 2016, IEEE CONF TECHNOL ED, P62, DOI [10.1109/T4E.2016.20, 10.1109/T4E.2016.021]
+   [Anonymous], 2001, PROC IEEE COMPUT SOC
+   Baggio D.L., 2012, MASTERING OPENCV PRA
+   Cheflali FZ, 2009, INT CONF MULTIMED, P1, DOI 10.1109/MMCS.2009.5256630
+   Chintalapati S., 2013, P 2013 IEEE INT C CO, P1
+   Chowdhry DA, 2013, IEEE CONF SUSTAIN UT, P11, DOI 10.1109/CSUDET.2013.6670976
+   Girish GN, 2014, INT CONF COMP COMMUN
+   Hidayat E., 2011, 2011 7th International Conference on Information Assurance and Security (IAS), P354, DOI 10.1109/ISIAS.2011.6122779
+   Islam MM, 2017, IEEE REG 10 HUMANIT, P230, DOI 10.1109/R10-HTC.2017.8288945
+   Jia Zhijuan, 2011, 2011 IEEE Power Engineering and Automation Conference (PEAM 2011), P69, DOI 10.1109/PEAM.2011.6135017
+   Kainz O, 2014, 12TH IEEE INTERNATIONAL CONFERENCE ON EMERGING ELEARNING TECHNOLOGIES AND APPLICATIONS (ICETA 2014), P221, DOI 10.1109/ICETA.2014.7107589
+   Kar Nirmalya, 2012, International Journal of Computer and Communication Engineering, DOI [10.7763/IJCCE.2012.V1.28, DOI 10.7763/IJCCE.2012.V1.28]
+   Lim JH, 2017, ASIAPAC SIGN INFO PR, P386, DOI 10.1109/APSIPA.2017.8282063
+   Lukas S, 2016, I C INF COMM TECH CO, P1032, DOI 10.1109/ICTC.2016.7763360
+   Mainkar MS, 2017, 2017 INTERNATIONAL CONFERENCE ON INDUSTRIAL ENGINEERING, MANAGEMENT SCIENCE AND APPLICATION (ICIMSA 2017), P1
+   Raghuwanshi A, 2017, 2017 2ND IEEE INTERNATIONAL CONFERENCE ON RECENT TRENDS IN ELECTRONICS, INFORMATION & COMMUNICATION TECHNOLOGY (RTEICT), P719, DOI 10.1109/RTEICT.2017.8256691
+NR 17
+TC 4
+Z9 4
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-9385-8
+PY 2018
+BP 229
+EP 234
+DI 10.1109/SITIS.2018.00042
+PG 6
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BM8IL
+UT WOS:000469258400031
+DA 2025-01-28
+ER
+
+PT C
+AU Srivastava, T
+   Vaish, V
+   Sharma, P
+   Khanna, P
+AF Srivastava, Tanya
+   Vaish, Vanshika
+   Sharma, Puneet
+   Khanna, Pooja
+GP IEEE
+TI Implementing Machine Learning for Face Recognition based Attendance
+   Monitoring System
+SO PROCEEDINGS OF THE 2019 6TH INTERNATIONAL CONFERENCE ON COMPUTING FOR
+   SUSTAINABLE GLOBAL DEVELOPMENT (INDIACOM)
+LA English
+DT Proceedings Paper
+CT 6th International Conference on Computing for Sustainable Global
+   Development (INDIACom)
+CY MAR 13-15, 2019
+CL Bharati Vidyapeeth, New Delhi, INDIA
+SP IEEE Delhi Sect, GGSIP Univ, SERB, Govt India, Minist Sci & Technol, Dept Sci & Technol, Council Sci & Ind Res, All India Council Tech Educ, Inst Elect & Telecommunicat Engineers, IET, Jagdishprasad Jhabarmal Tibrewala Univ, Delhi Local Networks
+HO Bharati Vidyapeeth
+DE Face detection and recognition; Automatic Attendance; CNN; LBPH; image
+   classification; visual descriptor
+AB It is well known that marking attendance of the students is an obligatory part in academia. Conventional method of marking the attendance is being followed by various institutions and Universities with lots of manual interventions. To reduce time consumption and human effort, the use of an automatic process of marking attendance based on image processing can be enforced. Authors have proposed a smart attendance monitoring system through face detection and recognition techniques based on their facial features. A set of images of the students are previously fed to the system against which the live images of the students are compared and attendance would be recorded based on facial characteristics. The proposed approach uses CNN algorithm for training the images and LBPH visual descriptor for image classification. This model will be capable of providing higher degree of accuracy compared to already existing literature work. Authors have compared their experimental results with the existing approaches and found satisfactory.
+C1 [Srivastava, Tanya; Vaish, Vanshika; Sharma, Puneet; Khanna, Pooja] Amity Univ, Dept Comp Sci & Engn, ASET, Lucknow, Uttar Pradesh, India.
+RP Srivastava, T (corresponding author), Amity Univ, Dept Comp Sci & Engn, ASET, Lucknow, Uttar Pradesh, India.
+EM srivastavatanya12@gmail.com; vanshikavaish6@gmail.com;
+   puneetgrandmaster@gmail.com; pkhanna@lko.amiy.edu
+RI Sharma, Puneet/AAA-4704-2022; Srivastava, Tanya/JED-6386-2023
+OI khanna, pooja/0000-0002-0043-1068
+CR [Anonymous], 2009, IEEE S
+   Dertat A, 2017, Medium
+   EMAMI Shervin, FACE RECOGNITION USI
+   Fang Liu Shuangsang, 2015, IMPLEMENTATION UNPUB
+   Freund Y., 1999, J JPN SOC ARTIF INTE, V14, P1612
+   Gupta V, 2014, INT J COMPUT MAT SCI, V3, DOI 10.1142/S2047684114500171
+   Jayant Nazare Kanchan, 2016, IEEE C ADV SIGN PROC
+   Kim Inseong., 2003, Face detection, V28
+   Mahvish N., 2014, FEW TUTORIALS
+   Malik Himanshu, 2015, AUTOMATED STUD UNPUB
+   Matthew T., 1991, J COGNITIVE NEUROSCI, V3
+   Ojala T., 1996, J INTELLIGENT LEARNI, V29
+   Pereira Tiago F., 2012, VIDEO BASED FACE VER, P240
+   Rashid RA, 2008, 2008 INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION ENGINEERING, VOLS 1-3, P898, DOI 10.1109/ICCCE.2008.4580735
+   Rodriguez Y, 2006, LECT NOTES COMPUT SC, V3954, P321
+   Shehu V., 2010, 2010 32nd International Conference on Information Technology Interfaces (ITI 2010), P397
+   Soo Sander, OBJECT DETECTI UNPUB
+   Venkateswaran .S, 2017, INT RES J ENG TECHNO, V4
+   Xie Guobo, INT J ELECT ELECT EN
+   Zandi K, 2013, BMC COMPLEM ALTERN M, V13, DOI 10.1186/1472-6882-13-91
+NR 20
+TC 2
+Z9 3
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-93-80544-34-2
+PY 2019
+BP 1254
+EP 1259
+PG 6
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BP3QH
+UT WOS:000548605000246
+DA 2025-01-28
+ER
+
+PT J
+AU Tsai, MF
+   Li, MH
+AF Tsai, Ming-Fong
+   Li, Min-Hao
+TI Intelligent attendance monitoring system with spatio-temporal human
+   action recognition
+SO SOFT COMPUTING
+LA English
+DT Article
+DE Intelligent attendance monitoring; Skeleton gait recognition; Silhouette
+   recognition; Face recognition
+ID GAIT RECOGNITION; FACE
+AB This paper proposes an intelligent attendance monitoring system based on spatio-temporal human action recognition, which includes human skeleton gait recognition, multi-action body silhouette recognition and face recognition. Our system solves several problems, for example, when a mask is worn to conceal the face, which leads to a decrease in recognition accuracy performance, and when a 3D face mask is used to fake an identity. The skeleton gait feature of our intelligent attendance monitoring system uses a temporal weighted K-nearest neighbours algorithm to train the recognition model and carry out identification, while the multi-action body silhouette feature uses a multiple K-nearest neighbours algorithm to train the recognition model, identify the person and vote on the outcome. Using the proposed system, which integrates skeleton gait features, action silhouette features and face features, more effective recognition can be achieved. When the system encounters a situation with feature masking, such as when an individual is wearing a mask or has changed their clothes, or when the viewing angle is masked, it can continue to deliver good recognition ability through multi-angle skeleton synthesis gait recognition. Our experimental results show that the recognition accuracy of the system is 83.33% when a specific person wears a mask and passes through a monitored area. The intelligent attendance monitoring system uses a LINE messaging API as the access control notification function and provides a responsive web platform that allows managers to perform follow-up management and monitoring.
+C1 [Tsai, Ming-Fong; Li, Min-Hao] Natl United Univ, Dept Elect Engn, Miaoli, Taiwan.
+C3 National United University
+RP Tsai, MF (corresponding author), Natl United Univ, Dept Elect Engn, Miaoli, Taiwan.
+EM mingfongtsai@gmail.com
+OI Tsai, Ming-Fong/0000-0001-9046-2513
+FU National United University, Taiwan
+FX This research was funded by National United University, Taiwan.
+CR [Anonymous], 2017, ARXIV170306870
+   Cheema U, 2021, COMPUT VIS IMAGE UND, V208, DOI 10.1016/j.cviu.2021.103218
+   Kong SG, 2005, COMPUT VIS IMAGE UND, V97, P103, DOI 10.1016/j.cviu.2004.04.001
+   Papandreou G, 2018, LECT NOTES COMPUT SC, V11218, P282, DOI 10.1007/978-3-030-01264-9_17
+   Peng W, 2020, AAAI CONF ARTIF INTE, V34, P2669
+   Ren SQ, 2015, ADV NEUR IN, V28, DOI 10.1109/TPAMI.2016.2577031
+   Shakhnarovich G, 2001, PROC CVPR IEEE, P439
+   Shi L, 2019, PROC CVPR IEEE, P12018, DOI 10.1109/CVPR.2019.01230
+   Tsai M, 2021, IEEE INT C CONSUMER, P1
+   Tsai MF, 2023, MULTIMED TOOLS APPL, V82, P11285, DOI 10.1007/s11042-022-13653-x
+   Tsai MF, 2022, MULTIMED TOOLS APPL, V81, P7439, DOI 10.1007/s11042-022-12000-4
+   Tsai MF, 2021, IEEE ACCESS, V9, P13870, DOI 10.1109/ACCESS.2021.3052246
+   Wang L, 2004, IEEE T CIRC SYST VID, V14, P149, DOI 10.1109/TCSVT.2003.821972
+   Wang L, 2003, IEEE T PATTERN ANAL, V25, P1505, DOI 10.1109/TPAMI.2003.1251144
+   Yan SJ, 2018, AAAI CONF ARTIF INTE, P7444
+NR 15
+TC 2
+Z9 2
+U1 4
+U2 18
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1432-7643
+EI 1433-7479
+J9 SOFT COMPUT
+JI Soft Comput.
+PD APR
+PY 2023
+VL 27
+IS 8
+BP 5003
+EP 5019
+DI 10.1007/s00500-022-07582-y
+EA OCT 2022
+PG 17
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA C3KV8
+UT WOS:000875576900001
+PM 36320405
+OA Bronze, Green Published
+DA 2025-01-28
+ER
+
+PT J
+AU Geetha, V
+   Reddy, MJ
+   Karthik, MV
+   Gomathy, CK
+AF Geetha, V
+   Reddy, M. Jishnuvardhan
+   Karthik, M. Venkata
+   Gomathy, C. K.
+TI ATTENDANCE MONITORING SYSTEM USING OPENCV
+SO INTERNATIONAL JOURNAL OF EARLY CHILDHOOD SPECIAL EDUCATION
+LA English
+DT Article
+DE Automatic Attendance; Face Detection; Face Recognition; Image
+   Enhancement; Enrollment
+AB Face recognition technology is crucial in almost every industry in our digital age. One of the most popular biosciences is face recognition. It provides additional benefits and will be used for identity, authentication, and security. Despite having worse accuracy when compared to fingerprint and iris recognition, it is nonetheless frequently utilized because of its non-intrusive and contactless nature. A facial recognition system may also be used for attendance tracking in offices, institutions, and other places. The present manual attending system is time-consuming and difficult to maintain, thus this technique attempts to create a category attending system that employs the face recognition concept. Additionally, the possibility of proxy attendance exists. As a result, this strategy will become more necessary. Information production, face detection, face recognition, and attending change are the four aspects of this strategy. The images of the pupils in school serve to inform. Face identification and recognition are carried out using the native Binary Pattern bar chart algorithmic rule as well as the Haar-Cascade classifier numerous times. Faces may be seen and identified in the room's live-streaming footage. At the end of the session, those who attended will be mailed letterhead addressed to the various colleges.
+C1 [Geetha, V; Reddy, M. Jishnuvardhan; Karthik, M. Venkata; Gomathy, C. K.] SCSVMV Deemed Be Univ, Dept CSE, Kancheepuram, Tamil Nadu, India.
+C3 Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya
+RP Geetha, V (corresponding author), SCSVMV Deemed Be Univ, Dept CSE, Kancheepuram, Tamil Nadu, India.
+RI Gomathy, C K/J-8552-2019
+CR Geetha V., 2017, ADV COMPUTATIONAL SC, V10, P3079
+   Geetha V., 2021, INT J ENG ADV TECHNO, V10
+   Geetha V., 2017, J ADV RES DYNAMICAL, V9, P32
+   Geetha V, 2017, INT J CONT RES COMPU, V3
+   Geetha V, 2017, INT J CONT RES COMPU
+   Gomathy CK, 2014, I C CURR TRENDS ENG, P41, DOI 10.1109/ICCTET.2014.6966260
+   Gomathy C.K., 2014, INT J ADV RES COMPUT, V3, P1302
+   Gomathy C K, 2018, IAETSD J ADV RES APP, V7, P51
+   Gomathy C K, 2018, INT J SCI RES COMPUT, V3
+   Gomathy C K, 2016, INT J COMPUTER APPL, V138, P11
+   Gomathy C K, 2017, INT J CONT RES COMPU
+   Gomathy C K, 2016, PUBLISHED INT J ADV, V5
+   Gomathy C. K., 2021, International Research Journal of Engineering and Technology, V8
+   Gomathy C K, 2016, INT J COMPUTER APPL, V138, P14
+   Gomathy C.K., 2021, ARTICLE STUDY EMPLOY, V08
+   Gomathy DR.C.K., 2016, PUBLISHED INT J ADV, V5
+   Xu G, 2012, INT J ENG ADV TECHNO, V2
+NR 17
+TC 0
+Z9 0
+U1 4
+U2 8
+PU ANADOLU UNIV
+PI ESKISEHIR
+PA INST FINE ARTS, ESKISEHIR, 26470, TURKEY
+SN 1308-5581
+J9 INT J EARLY CHILD SP
+JI Int. J. Early Child. Spec. Educ.
+PY 2022
+VL 14
+IS 5
+BP 697
+EP 704
+DI 10.9756/INTJECSE/V14I5.68
+PG 8
+WC Education, Special
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA 3K6PQ
+UT WOS:000834197500019
+DA 2025-01-28
+ER
+
+PT C
+AU Singh, G
+   Kumari, M
+   Tripathi, V
+   Diwakar, M
+AF Singh, Garima
+   Kumari, Monika
+   Tripathi, Vikas
+   Diwakar, Manoj
+BE Choi, BJ
+   Singh, D
+   Tiwary, US
+   Chung, WY
+TI Attendance Monitoring System Using Facial and Geo-Location Verification
+SO INTELLIGENT HUMAN COMPUTER INTERACTION, IHCI 2023, PT I
+SE Lecture Notes in Computer Science
+LA English
+DT Proceedings Paper
+CT 15th International Conference on Intelligent Human-Computer Interaction
+   (IHCI)
+CY NOV 08-10, 2023
+CL Daegu, SOUTH KOREA
+DE Attendance Monitoring System; Facial Verification; Geo-location
+   Verification
+AB Face verification is the most distinctive method used in the most effective image processing software, and it is essential in the technical world. Face verification is a method that can be used instead of face recognition. Face recognition is the act of recognising a person from a given image, whereas face verification is the process of confirming that a given face belongs to a particular person. As a result, after the face is validated, the attendance is automatically recorded, and an update is sent. In addition, an anti-spoofing measure of liveness detection is considered to ensure that the system is foolproof. Eye-blink has been used to detect liveness. Additionally, the geographical coordinates of the user are also verified before the attendance is marked. The creation of this system aims to digitalize the outdated method of collecting attendance by calling names and keeping pen-and-paper records. Because current methods of taking attendance are cumbersome and time-consuming.
+C1 [Singh, Garima; Kumari, Monika; Tripathi, Vikas; Diwakar, Manoj] Graph Era Deemed Be Univ, Dehra Dun, Uttarakhand, India.
+C3 Graphic Era University
+RP Singh, G (corresponding author), Graph Era Deemed Be Univ, Dehra Dun, Uttarakhand, India.
+EM garimasinghgryffindor@gmail.com; vikastripathi.cse@geu.ac.in;
+   dr.manojdiwakar@geu.ac.in
+RI Diwakar, Manoj/AAS-2520-2021; TRIPATHI, Vikas/AAN-6361-2020
+CR Aden A.A., 2013, ACAD RES INT, V4, P409
+   [Anonymous], PYIMAGESEARCH
+   [Anonymous], GeeksforGeeks
+   [Anonymous], MACROTRENDS
+   Bah SM, 2020, ARRAY-NY, V5, DOI 10.1016/j.array.2019.100014
+   Beltrán M, 2023, COMPUT SECUR, V132, DOI 10.1016/j.cose.2023.103324
+   da Rosa Righi R., 2023, High Performance Computing in Clouds, P99, DOI [10.1007/978-3-031-29769-4_, DOI 10.1007/978-3-031-29769-4]
+   Dalal R., 2021, Multimodal Biometric Systems, P101
+   Dua M, 2019, SOFT COMPUT, V23, P11801, DOI 10.1007/s00500-018-03731-4
+   Hangaragi Shivalila, 2023, Procedia Computer Science, P741, DOI 10.1016/j.procs.2023.01.054
+   Jafri R, 2009, J INF PROCESS SYST, V5, P41, DOI 10.3745/JIPS.2009.5.2.041
+   Kowsalya P., 2019, Int. Res. J. Eng. Technol. (IRJET), V6, P6629
+   Ku Hongchang., 2020, Frontiers in Signal Processing, V4, P37, DOI [10.22606/fsp.2020.41006, DOI 10.22606/FSP.2020.41006]
+   Nalini N., 2021, Attendance monitoring system based on face recognition
+   Nguyen Hieu V., 2010, Computer Vision - ACCV 2010. 10th Asian Conference on Computer Vision. Revised Selected Papers, P709, DOI 10.1007/978-3-642-19309-5_55
+   Parveen S, 2015, CURR SCI INDIA, V108, P1491
+   Patel U. A., 2014, INT J ADV RES COMPUT, V2, P109
+   Puthea K, 2017, 2017 2ND INTERNATIONAL CONFERENCES ON INFORMATION TECHNOLOGY, INFORMATION SYSTEMS AND ELECTRICAL ENGINEERING (ICITISEE), P304, DOI 10.1109/ICITISEE.2017.8285517
+   Rakshitha S., 2021, Face based CCTV attendance monitoring system using deep face recognition
+   Saraswat Deepti, 2023, Procedia Comput Sci, V218, P1506, DOI 10.1016/j.procs.2023.01.129
+   Tomar A, 2022, 2022 INTERNATIONAL CONFERENCE ON DECISION AID SCIENCES AND APPLICATIONS (DASA), P162, DOI 10.1109/DASA54658.2022.9765008
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 0302-9743
+EI 1611-3349
+BN 978-3-031-53826-1; 978-3-031-53827-8
+J9 LECT NOTES COMPUT SC
+PY 2024
+VL 14531
+BP 406
+EP 416
+DI 10.1007/978-3-031-53827-8_36
+PG 11
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BW8ZC
+UT WOS:001209044500036
+DA 2025-01-28
+ER
+
+PT J
+AU Rivera, RB
+   Asis, MB
+   Bangayan, OG
+AF Rivera, Ronald Bautista
+   Asis, Maricar Bulan
+   Bangayan, Oscar Gacutan
+TI Timekeeping and Immediate Monitoring of Employees by Consistently
+   Advocating Time Consciousness and Honesty Using Enhanced Attendance
+   Monitoring System (TIME CATCH Using EAMS)
+SO PERTANIKA JOURNAL OF SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Attendance; QR code; face recognition
+AB Attendance management methods that use QR codes and face recognition technology to identify and verify an individual's features are widely used in many aspects of people's lives nowadays, notably in pandemic situations where contact-less systems are used. In this paper, the development of enhanced attendance monitoring system using was introduced. The Isabela State University Angadanan Campus has implemented a biometric attendance monitoring system. However, it is limited to the number of employees' registrations, leave management and generation of Daily Time Record. The biometric system can only store 60 employees in every device, leave application and credits cannot be catered by the system and the Daily Time Record is not auto-generated and auto-formatted. For this reason, an enhanced attendance monitoring system was developed. The system uses a camera and QR Code reader to take attendance electronically, and the attendance records be saved in a database. It can store multiple number of employees, process leave application, manage remaining leave credits, and provide auto-generated Daily Time Record. This method, on the other hand, reduces the requirement for fixed materials and employees to retain records. From the developed system and the gathered data, it has addressed the problem of the conventional way of checking employee's attendance. The general mean of 4.72 shows that the software quality of the system based on ISO 25010 is found to be functional that the users have strongly agreed on the different characteristics of the system as it addresses the issues in the current attendance monitoring system of ISU.
+C1 [Rivera, Ronald Bautista] Isabela State Univ, Dept, Angadanan Campus, Echague 3309, Isabela, Philippines.
+   [Asis, Maricar Bulan] Isabela State Univ, Human Resource Management Off, Angadanan Campus, Echague 3309, Isabela, Philippines.
+   [Bangayan, Oscar Gacutan] Isabela State Univ, Off Campus Administrator, Angadanan Campus, Echague 3309, Isabela, Philippines.
+C3 Isabela State University; Isabela State University; Isabela State
+   University
+RP Rivera, RB (corresponding author), Isabela State Univ, Dept, Angadanan Campus, Echague 3309, Isabela, Philippines.
+EM ronald.b.rivera@isu.edu.ph; maricar.b.asis@isu.edu.ph;
+   oscar.g.bangayan@isu.edu.ph
+OI Rivera, Ronald/0009-0000-1669-3524
+CR Abdulkadhim Ekhlas Ghaleb, 2021, Journal of Physics: Conference Series, V1804, DOI 10.1088/1742-6596/1804/1/012011
+   Adewole K. S., 2014, COMPUTER ENG INTELLI, V5, P62
+   [Anonymous], 2012, PAC J SCI TECHNOL
+   Atanacio M. L., 2019, INT J RECENT TECHNOL, V8, P3915, DOI [10.35940/ijrte.C5133.098319, DOI 10.35940/IJRTE.C5133.098319]
+   Basheer KPM, 2012, ANNU IEEE IND CONF, P433
+   Hale RC, 2020, ENVIRON SCI TECHNOL, V54, P7034, DOI 10.1021/acs.est.0c02269
+   Joshi A, 2015, British Journal of Applied Science and Technology, V7, P396, DOI [DOI 10.9734/BJAST/2015/14975, 10.9734/BJAST/2015/14975]
+NR 7
+TC 0
+Z9 0
+U1 2
+U2 4
+PU UNIV PUTRA MALAYSIA PRESS
+PI SELANGOR
+PA SERDANG, SELANGOR, 00000, MALAYSIA
+SN 0128-7680
+J9 PERTANIKA J SCI TECH
+JI Pertanika J. Sci. Technol.
+PD JAN
+PY 2023
+VL 31
+IS 1
+BP 291
+EP 310
+DI 10.47836/pjst.31.1.18
+PG 20
+WC Multidisciplinary Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Science & Technology - Other Topics
+GA C7OE5
+UT WOS:000963760000018
+OA hybrid
+DA 2025-01-28
+ER
+
+PT J
+AU Babu, KN
+   Manne, S
+AF Babu, Kosuri Naresh
+   Manne, Suneetha
+TI An Automatic Student Attendance Monitoring System Using an Integrated
+   HAAR Cascade with CNN for Face Recognition with Mask
+SO TRAITEMENT DU SIGNAL
+LA English
+DT Article
+DE linear binary pattern (LBP) HAAR cascade; histogram of oriented
+   gradients (HoG); inception convolutional neural network; (CNN)
+AB In the olden day's many organizations including private and government finds it difficult to mark the attendance manually. A few decades back with the research on biometrics and image processing many smart applications like face recognizers and scanners came into existence but all these apps suffer from single face scanning problem but from the past 5 years many object detection algorithms help us to classify many objects or faces at a time based on multi facial points using boundary boxes to segment the regions. Many research works are carried out for the recognition of faces without masks. With the help of detection algorithms, the proposed algorithm tries to recognize the face of the students with or without masks to mark the attendance in this pandemic situation by designing HAAR integrated with LBP and CNN to find the multiple persons based on the facial points associated with the and other to extract the features.
+C1 [Babu, Kosuri Naresh] Geethanjali Coll Engn & Technol, Dept Informat Technol, Hyderabad 501301, India.
+   [Manne, Suneetha] Velagapudi Ramakrishna Siddhartha Engn Coll, Dept IT, Vijayawada 520007, India.
+C3 Geethanjali College of Engineering & Technology; Velagapudi Ramakrishna
+   Siddhartha Engineering College
+RP Babu, KN (corresponding author), Geethanjali Coll Engn & Technol, Dept Informat Technol, Hyderabad 501301, India.
+EM naresh.kosuri@gmail.com
+OI Kosuri, Naresh babu/0009-0001-2215-345X
+CR Anwarul S, 2020, LECT NOTES ELECTR EN, V597, P495, DOI 10.1007/978-3-030-29407-6_36
+   Bah SM, 2020, ARRAY-NY, V5, DOI 10.1016/j.array.2019.100014
+   Farfade SS, 2015, ICMR'15: PROCEEDINGS OF THE 2015 ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL, P643, DOI 10.1145/2671188.2749408
+   Halder Rohit, 2020, Proceedings of the Global AI Congress 2019. Advances in Intelligent Systems and Computing (AISC 1112), P101, DOI 10.1007/978-981-15-2188-1_9
+   Katamaneni M, 2022, TRAIT SIGNAL, V39, P1407, DOI 10.18280/ts.390435
+   Khan S, 2020, WIRELESS PERS COMMUN, V113, P469, DOI 10.1007/s11277-020-07224-2
+   Naveen Reddy K P, 2020, International Journal of Innovative Technology and Exploring Engineering', V9, DOI [10.35940/ijitee.B1057.1292S19, DOI 10.35940/IJITEE.B1057.1292S19]
+   Patil Vidya, 2020, 2020 International Conference on Smart Electronics and Communication (ICOSEC), P542, DOI 10.1109/ICOSEC49089.2020.9215305
+   Patil V., 2020, P 3 INT C ADV SCI TE, DOI [10.2139/ssrn.3568112, DOI 10.2139/SSRN.3568112]
+   Ray R., 2020, INT J RES APPL SCI E, DOI [10.22214/ijraset.2020.30745, DOI 10.22214/IJRASET.2020.30745]
+   Reddy AM, 2017, PROCEEDINGS OF THE 2017 INTERNATIONAL CONFERENCE ON BIG DATA ANALYTICS AND COMPUTATIONAL INTELLIGENCE (ICBDAC), P366, DOI 10.1109/ICBDACI.2017.8070865
+   Reddy AM, 2015, PROCEEDINGS OF THE 2015 INTERNATIONAL CONFERENCE ON APPLIED AND THEORETICAL COMPUTING AND COMMUNICATION TECHNOLOGY (ICATCCT), P857, DOI 10.1109/ICATCCT.2015.7457003
+   Viola P, 2004, INT J COMPUT VISION, V57, P137, DOI 10.1023/B:VISI.0000013087.49260.fb
+   Wang ZY, 2023, IEEE T BIOM BEHAV ID, V5, P298, DOI 10.1109/TBIOM.2023.3242085
+NR 14
+TC 1
+Z9 1
+U1 2
+U2 6
+PU INT INFORMATION & ENGINEERING TECHNOLOGY ASSOC
+PI EDMONTON
+PA #2020, SCOTIA PLACE TOWER ONE, 10060 JASPER AVE, EDMONTON, AB T5J 3R8,
+   CANADA
+SN 0765-0019
+EI 1958-5608
+J9 TRAIT SIGNAL
+JI Trait. Signal
+PD APR
+PY 2023
+VL 40
+IS 2
+BP 743
+EP 749
+DI 10.18280/ts.400234
+PG 7
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA H5FD4
+UT WOS:000996210200034
+OA Bronze
+DA 2025-01-28
+ER
+
+PT C
+AU Poornima, S
+   Sripriya, N
+   Vijayalakshmi, B
+   Vishnupriya, P
+AF Poornima, S.
+   Sripriya, N.
+   Vijayalakshmi, B.
+   Vishnupriya, P.
+GP IEEE
+TI Attendance Monitoring System using Facial Recognition with Audio Output
+   and Gender Classification
+SO 2017 INTERNATIONAL CONFERENCE ON COMPUTER, COMMUNICATION AND SIGNAL
+   PROCESSING (ICCCSP)
+LA English
+DT Proceedings Paper
+CT International Conference on Computer, Communication and Signal
+   Processing (ICCCSP)
+CY JAN 10-11, 2017
+CL Chennai, INDIA
+SP IEEE, SSN Coll Engn, Dept Informat Technol
+DE Face Recognition; Principal Component Analysis; Voice Conversion; Gender
+   classification
+AB Maintaining and taking log of attendance in a class is not much effective through manual process. Since bunking the classes or giving proxies for the absentees become fun and fantasy among the current generation students. Manual entering of attendance in logbooks becomes a difficult task and it can be easily manipulated. Therefore, this paper aims in presenting an automated attendance System - AUDACE. This system automatically detects the student in the class room and marks the attendance by recognizing their face.. This system is developed by capturing real time human faces in the class. The detected faces are matched against the reference faces in the dataset and marked the attendance for the attendees. Finally the absentee lists are said aloud through voice conversion system for confirmation. Secondly, the system is trained to classify the gender of the students present in the class.
+C1 [Poornima, S.; Sripriya, N.; Vijayalakshmi, B.; Vishnupriya, P.] SSN Coll Engn, Madras, Tamil Nadu, India.
+C3 SSN College of Engineering
+RP Poornima, S (corresponding author), SSN Coll Engn, Madras, Tamil Nadu, India.
+RI N, Sripriya/ABD-8627-2021; S, Poornima/ABD-6841-2021
+CR Chao Wei-Lun, 2013, J SIGNAL INFORM PROC, V4, P1
+   Dogra Himanshu, 2012, INT J ENG BUSINESS E, V25, P2
+   GUPTA A., 2015, International Journal of Recent Research in Mathematics Computer Science and Information Technology, V2, P59
+   Hooman Alireza, 2013, OVERVIEW PRINCIPAL C, P2
+   Iga Ryotatsu, 2003, INT C SOC INSTR CONT, P756
+   Joseph J, 2013, INT J SCI RES, V2, P328
+   Mäkinen E, 2008, IEEE T PATTERN ANAL, V30, P541, DOI 10.1109/TPAMI.2007.70800
+   Moghaddam B., 2000, Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580), P306, DOI 10.1109/AFGR.2000.840651
+   Moghaddam B, 2002, IEEE T PATTERN ANAL, V24, P707, DOI 10.1109/34.1000244
+   Patil Ajinkya, 2014, INT J ADV ENG TECHNO, V7, P976
+   Rao GM, 2009, 2009 IEEE INTERNATIONAL ADVANCE COMPUTING CONFERENCE, VOLS 1-3, P1369, DOI 10.1109/IADCC.2009.4809216
+   Saha Ashim, 2012, INT J COMPUT COMMUN, V1, P101
+   Sun ZH, 2002, SIXTH IEEE WORKSHOP ON APPLICATIONS OF COMPUTER VISION, PROCEEDINGS, P165, DOI 10.1109/ACV.2002.1182176
+   Yousaf Haroon, 2012, INT J COMPUTER SCI I, V9, P147
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5090-3716-2
+PY 2017
+BP 235
+EP 239
+PG 5
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering; Telecommunications
+GA BH8KP
+UT WOS:000403399900044
+DA 2025-01-28
+ER
+
+PT C
+AU Tran, TD
+   Huynh, KT
+   Nguyen, PQ
+   Ly, TN
+AF Tran, Trung-Dung
+   Huynh, Kha-Tu
+   Nguyen, Phu-Quang
+   Ly, Tu-Nga
+BE Dang, TK
+   Kung, J
+   Chung, TM
+TI AttendanceKit: A set of Role-Based Mobile Applications for Automatic
+   Attendance Checking with UHF RFID Using Realtime Firebase and Face
+   Recognition
+SO FUTURE DATA AND SECURITY ENGINEERING. BIG DATA, SECURITY AND PRIVACY,
+   SMART CITY AND INDUSTRY 4.0 APPLICATIONS, FDSE 2022
+SE Communications in Computer and Information Science
+LA English
+DT Proceedings Paper
+CT 9th International Conference, FDSE
+CY NOV 23-25, 2022
+CL Ho Chi Minh, VIETNAM
+SP Robon Grant Program, Government Upper Austria excellence network logistics Logistikum.Retail
+DE AttendanceKit; UHF RFID; Role-based mobile applications; Face
+   recognition; Realtime firebase; Automatic attendance system
+AB Traditional attendance monitoring has disadvantaged wasting time and resources. While an automatic attendance monitoring system enables students to check their attendance in offline classes. This paper we propose an AttendanceKit tool to check the automatic their attendance using real-time Ultra-High Frequency (UHF) RFID technology combined with face recognition in a suite of mobile applications for institution, lecturers, parents, and students. This can assist us overcome the disadvantages of manual inspection and get a very precise outcome. The backend system's real-time updates will trigger automatic push notifications to the students' mobile devices, prompting them to access the app and verify their attendance. They will also include the attendance monitoring features that allow the instructor to evaluate or determine the attendance status of each student. After receiving a request from a student, the application enables lecturers to manually monitor attendance in the event of unforeseen student concerns. In addition, our technique can automatically compile reports and analysis on each student's learning status in each class and the class overall to provide the lecturers, parents, and the institution with the aggregate percentage of students who are committed to attending class. Our experiments show that some initial simulations of the system provide a more complete picture of how the new system operates and interacts, followed by an evaluation based on the learning outcomes of the class. Our system takes time and accuracy into account. In addition, our results present a complete performance study of the system with RFID and genuine mobile devices, as well as a novel machine learning platform that can be deployed on actual devices in reality for commercial.
+C1 [Tran, Trung-Dung; Huynh, Kha-Tu; Nguyen, Phu-Quang; Ly, Tu-Nga] Int Univ, Ho Chi Minh City, Vietnam.
+   [Tran, Trung-Dung; Huynh, Kha-Tu; Nguyen, Phu-Quang; Ly, Tu-Nga] Vietnam Natl Univ, Ho Chi Minh City, Vietnam.
+C3 Vietnam National University Ho Chi Minh City (VNUHCM) System; VNU-HCM
+   International University (VNUHCM-IU); Vietnam National University Ho Chi
+   Minh City (VNUHCM) System
+RP Ly, TN (corresponding author), Int Univ, Ho Chi Minh City, Vietnam.; Ly, TN (corresponding author), Vietnam Natl Univ, Ho Chi Minh City, Vietnam.
+EM vernytran@icloud.com; hktu@hcmiu.edu.vn; nqphu@hcmiu.edu.vn;
+   ltnga@hcmiu.edu.vn
+OI Tran, Dung/0009-0004-7234-1215; Q. Ng., Phu/0000-0002-9936-6533
+FU Vietnam National University Ho Chi Minh City (VNU-HCM) [C2022-28-10]
+FX This research is funded by Vietnam National University Ho Chi Minh City
+   (VNU-HCM) under grant number C2022-28-10.
+CR Adeniran T., 2019, AFR J COMPUT ICT, P72
+   Adhinata Faisal Dharma, 2022, Proceedings of the 2nd International Conference on Electronics, Biomedical Engineering, and Health Informatics: ICEBEHI 2021. Lecture Notes in Electrical Engineering (898), P189, DOI 10.1007/978-981-19-1804-9_15
+   Ahirao P., 2019, 2 INT C ADV SCI TECH
+   Anitha G., 2020, ZEICHEN J, V6, P189
+   [Anonymous], COCOAPODS DOCUMENT
+   [Anonymous], RXSWIFT REACTIVE PRO
+   [Anonymous], Mongodb document
+   [Anonymous], CREATE ML DOCUMENT
+   [Anonymous], HOPELAND CL7206B DOC
+   [Anonymous], FIREBASE DOCUMENT
+   [Anonymous], SWIFT 6 SWIFTUI DOCU
+   [Anonymous], ALAMOFIRE TUTORIAL S
+   [Anonymous], GRADLE DOCUMENT
+   [Anonymous], APPLES TURICREATE DO
+   [Anonymous], COREMLTOOLS DOCUMENT
+   [Anonymous], CORE ML DOCUMENT
+   [Anonymous], TENSORFLOW DOCUMENT
+   Chiem Q., 2021, LNCS, V13076, P392, DOI [10.1007/978-3-030- 91387-8_25, DOI 10.1007/978-3-030-91387-8_25]
+   Choudhury A, 2021, J AMB INTEL HUM COMP, DOI 10.1007/s12652-021-03232-7
+   Devaprakash, 2020, INT CONF ADVAN COMPU, P1288, DOI [10.1109/icaccs48705.2020.9074162, 10.1109/ICACCS48705.2020.9074162]
+   Hossain MIA, 2018, 2018 JOINT 7TH INTERNATIONAL CONFERENCE ON INFORMATICS, ELECTRONICS & VISION (ICIEV) AND 2018 2ND INTERNATIONAL CONFERENCE ON IMAGING, VISION & PATTERN RECOGNITION (ICIVPR), P268, DOI 10.1109/ICIEV.2018.8640993
+   Kar Nirmalya, 2012, International Journal of Computer and Communication Engineering, DOI [10.7763/IJCCE.2012.V1.28, DOI 10.7763/IJCCE.2012.V1.28]
+   Niharika M., 2020, Proceeding of the International Conference on Computer Networks, Big Data and IoT (ICCBI - 2019). Lecture Notes on Data Engineering and Communications Technologies (LNDECT 49), P21, DOI 10.1007/978-3-030-43192-1_3
+   Schroff F, 2015, PROC CVPR IEEE, P815, DOI 10.1109/CVPR.2015.7298682
+   Tran M.D., 2022, SN COMPUT SCI, V3, P1
+   Tsai M.L., 2021, INT J COMPUT CONSUME, V10
+   Hoang D, 2018, PROCEEDINGS OF 2018 5TH NAFOSTED CONFERENCE ON INFORMATION AND COMPUTER SCIENCE (NICS 2018), P384, DOI 10.1109/NICS.2018.8606895
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-0929
+EI 1865-0937
+BN 978-981-19-8068-8; 978-981-19-8069-5
+J9 COMM COM INF SC
+PY 2022
+VL 1688
+BP 432
+EP 446
+DI 10.1007/978-981-19-8069-5_29
+PG 15
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods; Engineering, Industrial
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BU5ZH
+UT WOS:000921145600029
+DA 2025-01-28
+ER
+
+PT C
+AU Tamboli, N
+   Sardeshmukh, MM
+AF Tamboli, Nilofer
+   Sardeshmukh, M. M.
+GP IEEE
+TI Facial Based Attendance Monitoring System Using Discriminative Robust
+   Local Binary Pattern
+SO 2017 INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION, CONTROL AND
+   AUTOMATION (ICCUBEA)
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Computing, Communication, Control and
+   Automation (ICCUBEA)
+CY AUG 17-18, 2017
+CL Pune, INDIA
+SP IEEE Pune Sect, Pimpri Chinchwad Coll Engn
+DE Facial Recognition; Facial Identification; Attendance Management;
+   Attendance Validation
+AB In this research we have proposed Students attendance marking system using face recognition for high efficient signal transfer system applications .Face detection is an important role in many applications. Face detection overlapping is one of the important works in face detecting applications. In this paper DRLBP algorithm is used to identify overlapped faces detection. Initially the face is detected from database images using DRLBP feature extraction. This feature extraction result is compared to our test images. Finally classified method is used where we can classify and get the attendance validation result.
+C1 [Tamboli, Nilofer; Sardeshmukh, M. M.] Sinhgad Acad Engn, Elect & Telecommun, Pune, Maharashtra, India.
+RP Tamboli, N (corresponding author), Sinhgad Acad Engn, Elect & Telecommun, Pune, Maharashtra, India.
+EM nilofertamboli@yahoo.com; mmsardeshmukh.sae@sinhgad.edu
+CR Chintalapati Shireesha, 2007, INT DIARY MATH SCI I, V2
+   Dela Cruz Jennifer C, 2015, BIOMETRICS BASED ATT
+   Kainz O., 2014, ICETA 2014 12 IEEE I
+   Kar Nirmalya, 2010, INF TECHN C ITI 2010
+   Khatun IAmena, 2015, 2 INT C EL ENG INF C
+   Majeed Shahbaz, 2016, IEEE INT C POW EL IN
+   Mehta R, 2016, PATTERN RECOGN LETT, V71, P16, DOI 10.1016/j.patrec.2015.11.019
+   Satpathy Amit, 2013, HUMAN DETECTION USIN
+   Srivignessh PSS, 2016, INT C IEEE
+   Wang X, 2015, 2015 18TH INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEM APPLICATION TO POWER SYSTEMS (ISAP)
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-4008-1
+PY 2017
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Telecommunications
+GA BL0MG
+UT WOS:000446156500051
+DA 2025-01-28
+ER
+
+PT C
+AU Ruhitha, V
+   Raj, VNP
+   Geetha, G
+AF Ruhitha, V
+   Raj, V. N. Prudhvi
+   Geetha, G.
+GP IEEE
+TI Implementation of IOT based Attendance Management System on Raspberry Pi
+SO PROCEEDINGS OF THE 2019 INTERNATIONAL CONFERENCE ON INTELLIGENT
+   SUSTAINABLE SYSTEMS (ICISS 2019)
+LA English
+DT Proceedings Paper
+CT International Conference on Intelligent Sustainable Systems (ICISS)
+CY FEB 21-22, 2019
+CL Palladam, INDIA
+SP IEEE, Anna Univ, SCAD Inst Technol
+DE Automatic attendance; Biometric; Face detection; Face Recognition; LBPH;
+   Haar Classifier
+ID CLASSIFICATION; SCALE
+AB The biometric-based attendance monitoring system replaces the manual method of taking attendance and reduces the time to take attendance and avoids proxy. There are many biometric methods developed based on the fingerprint recognition, DNA matching, face recognition, Iris recognition and voice recognition. Out of all, the methods based on face recognition are proved to be the best methods. In this paper we are presenting the implementation of attendance monitoring system based on the facial recognition. In this method the image database of the classroom is created first and the database is used to train the system. Then in recognition phase the camera is fixed at the focal point in the classroom and it will capture the images, then from the captured images student's faces are recognized & compared with the database and lastly the attendance is marked based on the faces identified. The marked attendance is directly reported to the students/parents and to the faculty handling the respective course. In this method, Haar cascade classifier is used to detect the faces and captured images are compared with the database by using local binary pattern histogram algorithm. The face recognition system is implemented on the Raspberry Pi 3B hardware.
+C1 [Ruhitha, V; Raj, V. N. Prudhvi] VR Siddhartha Engn Coll, EIE Dept, Vijayawada, India.
+   [Geetha, G.] VR Siddhartha Engn Coll, Dept Informat Technol, Vijayawada, India.
+C3 Velagapudi Ramakrishna Siddhartha Engineering College; Velagapudi
+   Ramakrishna Siddhartha Engineering College
+RP Ruhitha, V (corresponding author), VR Siddhartha Engn Coll, EIE Dept, Vijayawada, India.
+EM ruhitha.v27@gmail.com; nagaprudhvi@gmail.com; geetaguttikonda@gmail.com
+OI Naga Prudhvi Raj, Vattikuti/0000-0002-3496-6917
+CR Ahonen T, 2006, IEEE T PATTERN ANAL, V28, P2037, DOI 10.1109/TPAMI.2006.244
+   [Anonymous], 1997, TECH REP
+   [Anonymous], 2017, INT ART INT DAT PROC
+   Bay H, 2008, COMPUT VIS IMAGE UND, V110, P346, DOI 10.1016/j.cviu.2007.09.014
+   Chen YR, 2016, IEEE ICC, P13, DOI 10.1109/ICC.2016.7510601
+   Cheok MJ, 2019, INT J MACH LEARN CYB, V10, P131, DOI 10.1007/s13042-017-0705-5
+   Lowe DG, 2004, INT J COMPUT VISION, V60, P91, DOI 10.1023/B:VISI.0000029664.99615.94
+   Lu J, 2017, INT J PHOTOENERGY, V2017, DOI 10.1155/2017/8363190
+   Makhija Y, 2019, ADV INTELL SYST COMP, V741, P1189, DOI 10.1007/978-981-13-0761-4_110
+   Ojala T, 2002, IEEE T PATTERN ANAL, V24, P971, DOI 10.1109/TPAMI.2002.1017623
+   Sayem IM, 2018, 2018 INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND DATA ENGINEERING (ICMLDE 2018), P14, DOI 10.1109/iCMLDE.2018.00013
+   Song XN, 2019, PATTERN RECOGN, V88, P127, DOI 10.1016/j.patcog.2018.11.008
+   Sun Z, 2019, ARTIF INTELL REV, V51, P1, DOI 10.1007/s10462-017-9554-6
+   TURK M, 1991, J COGNITIVE NEUROSCI, V3, P71, DOI 10.1162/jocn.1991.3.1.71
+   Viola P, 2001, PROC CVPR IEEE, P511, DOI 10.1109/cvpr.2001.990517
+NR 15
+TC 4
+Z9 4
+U1 0
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-7799-5
+PY 2019
+BP 584
+EP 587
+DI 10.1109/iss1.2019.8908092
+PG 4
+WC Computer Science, Artificial Intelligence; Green & Sustainable Science &
+   Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Science & Technology - Other Topics
+GA BO6IS
+UT WOS:000520126400093
+DA 2025-01-28
+ER
+
+PT C
+AU Mohana, HS
+   Mahanthesha, U
+AF Mohana, H. S.
+   Mahanthesha, U.
+GP IEEE
+TI Smart Digital Monitoring for Attendance System
+SO 2018 INTERNATIONAL CONFERENCE ON RECENT INNOVATIONS IN ELECTRICAL,
+   ELECTRONICS & COMMUNICATION ENGINEERING (ICRIEECE 2018)
+LA English
+DT Proceedings Paper
+CT International Conference on Recent Innovations in Electrical,
+   Electronics and Communication Engineering (ICRIEECE)
+CY JUL 27-28, 2018
+CL Bhubaneswar, INDIA
+SP Kalinga Inst Ind Technol, Sch Elect Engn
+DE Face recognition; Attendance Monitoring; Video surveillance system
+AB In the perception of attendance monitoring system, it takes the attendance automatically using Facial Recognition process. The construction is dependence on face recognition and applies the system to any classroom or laboratory while teaching. This concept is based on the algorithm called SURF (Speed Up Robust Feature). The method consist of capturing the individual student or group students Image in the class and compares with the pre stored individual identified images of the students with the individual or group image, if the student face is found in the grou then the attendance will update. The entire code is written in software called MATLAB. Attendance database Storage is done in MS-Excel file. MATLAB is very high configuration software for simulation.
+C1 [Mohana, H. S.; Mahanthesha, U.] MCE Hassan, Hassan, Karnataka, India.
+RP Mohana, HS (corresponding author), MCE Hassan, Hassan, Karnataka, India.
+EM mohanahs@rediffmail.com; mahanthesh015@gmail.com
+RI U, MAHANTHESHA/AAC-2500-2022
+CR Aggarwal J. K., P 2 INT S 3D DAT PRO
+   Holte Michael B., 2012, IEEE J SELECTED TOPI, V6
+   K Lalitha, 2016, INT J ENG RES ELECT, V2
+   Latha M, 2014, INT J ENG INNOVATIVE, V3
+   Mahanthesh U, 2016, INT J ENG RES ELECT, V2
+   S Pavithra, 2016, INT J ADV RES COMPUT, V5
+   Xia Lu, SPATIO TEMPORAL DEPT
+   Xia Lu., Human Detection Using Depth Information by Kinect
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-5995-3
+PY 2018
+BP 612
+EP 616
+PG 5
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Telecommunications
+GA BP5HA
+UT WOS:000555501700053
+DA 2025-01-28
+ER
+
+EF

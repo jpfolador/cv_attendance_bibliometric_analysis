@@ -1,0 +1,183 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Asmitha, P
+   Rupa, C
+   Nikitha, S
+   Hemalatha, J
+   Sahu, AK
+AF Asmitha, P.
+   Rupa, Ch
+   Nikitha, S.
+   Hemalatha, J.
+   Sahu, Aditya Kumar
+TI Improved multiview biometric object detection for anti spoofing frauds
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+LA English
+DT Article; Early Access
+DE Human face; Detection; Recognition; Authentication; RetinaFace; Improved
+   ArcFace; Real-time data
+ID SYSTEM
+AB Computer vision and deep learning are essential in human authentication. It provides answers to numerous issues faced in the real world. Moreover, it has a great potential in detecting and recognizing the biometrics. It plays a significant role in reducing frauds such as spoofing, identification (ID) theft, and masking types of issues, which are difficult to perform manually, and many case studies used deep learning algorithms (DLA) like viola-jones, AlexNet, and Tiny YOLO3 but the main limitations of these studies are that they are not capable of giving high accuracy and robustness in the multi-face scenarios. So, in this article, an enhanced ArcFace (Additive Angular Margin loss) referred to as Improved ArcFace (I-AF) utilizes Convolution Neural Network (CNN) as its base architecture for feature extraction and RetinaFace are combined to overcome the above limitation, whereas RetinFace is for detecting and I-AF is for recognizing and authenticating human faces. It gives robust and accurate results while dealing with multi-faces. To evaluate the performance of the human monitoring system, it is implemented on real-time student data in a classroom to track the attendance of individuals. The faces of individuals in a classroom are detected and each detected face will be recognized and finally the result will be mapped for the attendance of individuals. To improve accuracy, the data set termed as labeled data, which contains images of students, is trained using I-AF. The system is 97% accurate, which is better than other methods.
+C1 [Asmitha, P.; Rupa, Ch; Nikitha, S.] VR Siddhartha Engn Coll, Vijayawada, India.
+   [Hemalatha, J.] AAA Coll Engn & Technol, Dept CSE, Amathur, Tamilnadu, India.
+   [Sahu, Aditya Kumar] Amrita Vishwa Vidyapeetham, Amrita Sch Comp, Amaravati, Andra Pradesh, India.
+C3 Velagapudi Ramakrishna Siddhartha Engineering College; Amrita Vishwa
+   Vidyapeetham
+RP Rupa, C (corresponding author), VR Siddhartha Engn Coll, Vijayawada, India.; Sahu, AK (corresponding author), Amrita Vishwa Vidyapeetham, Amrita Sch Comp, Amaravati, Andra Pradesh, India.
+EM rupamtech@gmail.com; adityasahu.cse@gmail.com
+RI Sahu, Dr. Aditya/P-8681-2015; Sahu, Dr. Aditya Kumar/P-8681-2015; J,
+   Hemalatha/HGU-0874-2022; Rupa, Ch/A-2571-2019
+OI Sahu, Dr. Aditya Kumar/0000-0003-4257-0688; 
+FU AMRITA Seed Grant; Amrita Vishwa Vidyapeetham [ASG2022234]
+FX The research is partially supported by the AMRITA Seed Grant, Amrita
+   Vishwa Vidyapeetham, Amaravati campus (File Number: ASG2022234).
+CR Alhanaee K, 2021, PROCEDIA COMPUT SCI, V192, P4093, DOI 10.1016/j.procs.2021.09.184
+   Andrie R, 2022, P 2022 ANN TECHNOLOG, P134, DOI [10.2991/978-94-6463-106-7_13, DOI 10.2991/978-94-6463-106-7_13]
+   [Anonymous], 2023, 2023 Trafficking in Persons Report: United States
+   [Anonymous], 2021, Inida times
+   Çeliktutan O, 2013, EURASIP J IMAGE VIDE, DOI 10.1186/1687-5281-2013-13
+   Ch R., 2024, SN comput sci, V5, P6, DOI [10.1007/s42979-023-02345-4, DOI 10.1007/S42979-023-02345-4]
+   Ch R, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12104087
+   Darapaneni N, 2020, 2020 IEEE 15 INT C I, P236, DOI [10.1109/ICIIS51140.2020.9342670, DOI 10.1109/ICIIS51140.2020.9342670]
+   Deng JK, 2020, PROC CVPR IEEE, P5202, DOI 10.1109/CVPR42600.2020.00525
+   Frejlichowski D, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10217582
+   Harikrishna J., 2022, Sentimental Analysis and Deep Learning: Proceedings of ICSADL 2021. Advances in Intelligent Systems and Computing (1408), P129, DOI 10.1007/978-981-16-5157-1_10
+   Hemalatha J, 2023, J INF SECUR APPL, V76, DOI 10.1016/j.jisa.2023.103541
+   Hlongwane TC, 2022, 2022 INT C ELECT COM, P1, DOI [10.1109/ICECET55527.2022.9873037, DOI 10.1109/ICECET55527.2022.9873037]
+   Li LX, 2020, IEEE ACCESS, V8, P139110, DOI 10.1109/ACCESS.2020.3011028
+   Libby C, 2021, J MED SYST, V45, DOI 10.1007/s10916-021-01723-w
+   Mousa MA, 2022, INFRASTRUCTURES-BASE, V7, DOI 10.3390/infrastructures7100141
+   Muhammad G, 2017, IEEE ACCESS, V5, P10871, DOI 10.1109/ACCESS.2017.2712788
+   Mun HJ, 2022, IEEE ACCESS, V10, P124604, DOI 10.1109/ACCESS.2022.3223374
+   Park K, 2021, MICROMACHINES-BASEL, V12, DOI 10.3390/mi12010073
+   Parker Jake, 2023, Security Industry Association Facial Recognition Success
+   Patro P, 2023, IRAN J FUZZY SYST, V20, P155, DOI 10.22111/IJFS.2023.44767.7887
+   Pavaloaia VD, 2023, INFORMATION, V14, DOI 10.3390/info14010025
+   Sahu AK, 2021, J AMB INTEL HUM COMP, DOI 10.1007/s12652-021-03365-9
+   Saraswat Deepti, 2023, Procedia Comput Sci, V218, P1506, DOI 10.1016/j.procs.2023.01.129
+   Son NT, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12020307
+   Srinivasan S, 2023, DIAGNOSTICS, V13, DOI 10.3390/diagnostics13030548
+   Teoh K. H., 2021, Journal of Physics: Conference Series, V1755, DOI 10.1088/1742-6596/1755/1/012006
+   Tsai TH, 2023, SENSORS-BASEL, V23, DOI 10.3390/s23062901
+   Ullah R, 2022, MATH PROBL ENG, V2022, DOI 10.1155/2022/3276704
+   Venkata Nagasree Y. Lakshmi, 2021, 2021 International Conference on Recent Trends on Electronics, Information, Communication & Technology (RTEICT), P268, DOI 10.1109/RTEICT52294.2021.9573869
+   Waseem Muhammad, 2020, 2020 International Conference on Computational Intelligence (ICCI), P51, DOI 10.1109/ICCI51257.2020.9247836
+   Yang H, 2020, IEEE ACCESS, V8, P159143, DOI 10.1109/ACCESS.2020.3007205
+NR 32
+TC 8
+Z9 8
+U1 1
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1380-7501
+EI 1573-7721
+J9 MULTIMED TOOLS APPL
+JI Multimed. Tools Appl.
+PD 2024 FEB 12
+PY 2024
+DI 10.1007/s11042-024-18458-8
+EA FEB 2024
+PG 17
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods; Engineering, Electrical
+   & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA HK6K7
+UT WOS:001159434300009
+DA 2025-07-30
+ER
+
+PT J
+AU Benalcazar, D
+   Tapia, JE
+   Gonzalez, S
+   Busch, C
+AF Benalcazar, Daniel
+   Tapia, Juan E.
+   Gonzalez, Sebastian
+   Busch, Christoph
+TI Synthetic ID Card Image Generation for Improving Presentation Attack
+   Detection
+SO IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+LA English
+DT Article
+DE Training; Generative adversarial networks; Generators; Fraud; Deep
+   learning; Smart phones; Faces; Biometrics; ID card; tampering;
+   presentation attack detection; synthetics images; GANs
+AB Currently, it is ever more common to access online services for activities which formerly required physical attendance. From banking operations to visa applications, a significant number of processes have been digitised, especially since the advent of the COVID-19 pandemic, requiring remote biometric authentication of the user. On the downside, some subjects intend to interfere with the normal operation of remote systems for personal profit by using fake identity documents, such as passports and ID cards. Deep learning solutions to detect such frauds have been presented in the literature. However, due to privacy concerns and the sensitive nature of personal identity documents, developing a dataset with the necessary number of examples for training deep neural networks is challenging. This work explores three methods for synthetically generating ID card images to increase the amount of data while training fraud-detection networks. These methods include computer vision algorithms and Generative Adversarial Networks. Our results indicate that databases can be supplemented with synthetic images without any loss in performance for the print/scan Presentation Attack Instrument Species (PAIS) and a loss in performance of 1% for the screen capture PAIS.
+C1 [Benalcazar, Daniel; Gonzalez, Sebastian] TOC Biometr Co, Res & Dev Ctr, Santiago 7520424, Chile.
+   [Tapia, Juan E.; Busch, Christoph] Hsch Darmstadt, Da Sec Biometr & Internet Secur Res Grp, D-64295 Darmstadt, Germany.
+C3 Hochschule Darmstadt
+RP Tapia, JE (corresponding author), Hsch Darmstadt, Da Sec Biometr & Internet Secur Res Grp, D-64295 Darmstadt, Germany.
+EM daniel.benalcazar@tocbiometrics.com; juan.tapia-farias@h-da.de;
+   sebastian.gonzalez@tocbiometrics.com; christoph.busch@h-da.de
+RI ; Busch, Christoph/AAF-8176-2019; González, Sebastián/R-8780-2016;
+   Tapia, Juan/KVZ-0330-2024
+OI Tapia, Juan/0000-0001-9159-4075; Busch, Christoph/0000-0002-9159-2923
+FU European Union [883356]; German Federal Ministry of Education and
+   Research; Hessian Ministry of Higher Education, Research, Science, and
+   the Arts
+FX This work was supported in part by the European Union's Horizon 2020
+   Research and Innovation Program under Agreement 883356; and in part by
+   the German Federal Ministry of Education and Research and the Hessian
+   Ministry of Higher Education, Research, Science, and the Arts within
+   their joint support of the National Research Center for Applied
+   Cybersecurity ATHENE and TOC Biometrics, Research and Development
+   Center. The associate editor coordinating the review of this manuscript
+   and approving it for publication was Dr. Fernando Alonso-Fernandez.
+   (Corresponding author: Juan E. Tapia.)
+CR Albiero V., 2020, PROC IEEE INT JOINT, P1
+   Chu CS, 2017, Arxiv, DOI [arXiv:1712.02950, DOI 10.48550/ARXIV.1712.02950]
+   Deng J, 2009, PROC CVPR IEEE, P248, DOI 10.1109/CVPRW.2009.5206848
+   Fathy ME, 2015, INT CONF ACOUST SPEE, P1687, DOI 10.1109/ICASSP.2015.7178258
+   Gonzalez Sebastian, 2021, IEEE Transactions on Biometrics, Behavior, and Identity Science, V3, P89, DOI 10.1109/TBIOM.2020.3024263
+   Goodfellow I, 2020, COMMUN ACM, V63, P139, DOI 10.1145/3422622
+   Heusel M, 2017, ADV NEUR IN, V30
+   Huber M., 2022, PROC IEEE INT JOINT, P1
+   Karras T, 2020, ADV NEUR IN, V33
+   Lara R, 2021, Arxiv, DOI [arXiv:2111.12764, 10.48550/ARXIV.2111.12764, DOI 10.48550/ARXIV.2111.12764]
+   Mudgalgundurao R, 2022, IET BIOMETRICS, V11, P383, DOI 10.1049/bme2.12088
+   Perera P, 2019, IEEE T INF FOREN SEC, V14, P1240, DOI 10.1109/TIFS.2018.2876748
+   Pouyanfar S, 2017, IEEE INT CON MULTI, P373, DOI 10.1109/ICME.2017.8019447
+   Salimans T, 2016, Arxiv, DOI [arXiv:1606.03498, DOI 10.48550/ARXIV.1606.03498]
+   Sandler M, 2018, PROC CVPR IEEE, P4510, DOI 10.1109/CVPR.2018.00474
+   Shi Y., 2018, 2018 IEEE INT S TECH, P1, DOI DOI 10.1109/THS.2018.8574124
+   Stokkenes M., 2018, PROC INT C BIOMETRIC, P1
+   Arlazarov VV, 2020, Arxiv, DOI arXiv:1807.05786
+   Viazovetskyi Y, 2020, Img Proc Comp Vis Re, V12367, P170, DOI 10.1007/978-3-030-58542-6_11
+   Xu QT, 2018, Arxiv, DOI [arXiv:1806.07755, DOI 10.48550/ARXIV.1806.07755, 10.48550/arXiv.1806.07755]
+   Yichun Shi, 2019, IEEE Transactions on Biometrics, Behavior, and Identity Science, V1, P56, DOI 10.1109/TBIOM.2019.2897807
+   Zheng LL, 2019, J VIS COMMUN IMAGE R, V58, P380, DOI 10.1016/j.jvcir.2018.12.022
+   Zhu XY, 2019, INT J COMPUT VISION, V127, P684, DOI 10.1007/s11263-019-01162-8
+NR 23
+TC 16
+Z9 18
+U1 2
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1556-6013
+EI 1556-6021
+J9 IEEE T INF FOREN SEC
+JI IEEE Trans. Inf. Forensic Secur.
+PY 2023
+VL 18
+BP 1814
+EP 1824
+DI 10.1109/TIFS.2023.3255585
+PG 11
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA A8KQ9
+UT WOS:000957556100004
+OA Green Submitted, hybrid
+DA 2025-07-30
+ER
+
+EF

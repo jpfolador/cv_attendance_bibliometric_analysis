@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Mothwa, L
+   Tapamo, JR
+   Mapayi, T
+AF Mothwa, Louis
+   Tapamo, Jules-Raymond
+   Mapayi, Temitope
+BE DiBaja, GS
+   Gallo, L
+   Yetongnon, K
+   Dipanda, A
+   CastrillonSantana, M
+   Chbeir, R
+TI Conceptual Model of the Smart Attendance Monitoring System Using
+   Computer Vision
+SO 2018 14TH INTERNATIONAL CONFERENCE ON SIGNAL IMAGE TECHNOLOGY & INTERNET
+   BASED SYSTEMS (SITIS)
+LA English
+DT Proceedings Paper
+CT 14th International Conference on Signal Image Technology & Internet
+   Based Systems (SITIS)
+CY NOV 26-29, 2018
+CL Las Palmas de Gran Canaria, SPAIN
+SP IEEE Comp Soc, Univ Las Palmas Gran Canaria, Univ Milan, Univ Bourgogne, Laboratoire Electronique Image Informatique Res Grp, Natl Res Council Italy, Inst High Performance Comp & Networking, IEEE, Special Interest Grp Seman Multimedia Management, ACM SIGAPP fr, Special Interest Grp Appl Comp, French Chapter, Patronato Turismo Gran Canaria
+DE Multi-Camera Architecture; Time Integration; Face Recognition
+AB The monitoring of student attendance remains a fundamental and vital part of any educational institution. Although some automated biometric-based attendance monitoring systems have been proposed in the literature, poor system modeling has negatively affected their performance. There is, hence, a need to address the various needs associated with the development of an AI-based attendance monitoring system. This paper proposes the conceptual model for a smart attendance monitoring system that uses face recognition to monitor students' attendance during lectures. The front and back-end system architectures, as well as a full view multi-camera structure aimed at effectively capturing and detecting of faces, are presented. Thee different feature extraction techniques-PCA, LDA, LBP and a combination of PCA and LDA were investigated. The model achieved a recognition accuracy of 90%.
+C1 [Mothwa, Louis; Tapamo, Jules-Raymond] Univ KwaZulu Natal, Sch Engn, Durban, South Africa.
+   [Mapayi, Temitope] Mangosuthu Univ Technol, Dept Elect Engn, Durban, South Africa.
+C3 University of Kwazulu Natal; Mangosuthu University of Technology
+RP Mothwa, L (corresponding author), Univ KwaZulu Natal, Sch Engn, Durban, South Africa.
+EM louismothwaa@gmail.com; tapamoj@ukzn.ac.za; mapayi.temitope@mut.ac.za
+CR Aburomman AA, 2016, Adv Inform Managemen, P636, DOI 10.1109/IMCEC.2016.7867287
+   Anand S, 2016, IEEE CONF TECHNOL ED, P62, DOI [10.1109/T4E.2016.20, 10.1109/T4E.2016.021]
+   [Anonymous], 2001, PROC IEEE COMPUT SOC
+   Baggio D.L., 2012, MASTERING OPENCV PRA
+   Cheflali FZ, 2009, INT CONF MULTIMED, P1, DOI 10.1109/MMCS.2009.5256630
+   Chintalapati S., 2013, P 2013 IEEE INT C CO, P1
+   Chowdhry DA, 2013, IEEE CONF SUSTAIN UT, P11, DOI 10.1109/CSUDET.2013.6670976
+   Girish GN, 2014, INT CONF COMP COMMUN
+   Hidayat E., 2011, 2011 7th International Conference on Information Assurance and Security (IAS), P354, DOI 10.1109/ISIAS.2011.6122779
+   Islam MM, 2017, IEEE REG 10 HUMANIT, P230, DOI 10.1109/R10-HTC.2017.8288945
+   Jia Zhijuan, 2011, 2011 IEEE Power Engineering and Automation Conference (PEAM 2011), P69, DOI 10.1109/PEAM.2011.6135017
+   Kainz O, 2014, 12TH IEEE INTERNATIONAL CONFERENCE ON EMERGING ELEARNING TECHNOLOGIES AND APPLICATIONS (ICETA 2014), P221, DOI 10.1109/ICETA.2014.7107589
+   Kar Nirmalya, 2012, International Journal of Computer and Communication Engineering, DOI [10.7763/IJCCE.2012.V1.28, DOI 10.7763/IJCCE.2012.V1.28]
+   Lim JH, 2017, ASIAPAC SIGN INFO PR, P386, DOI 10.1109/APSIPA.2017.8282063
+   Lukas S, 2016, I C INF COMM TECH CO, P1032, DOI 10.1109/ICTC.2016.7763360
+   Mainkar MS, 2017, 2017 INTERNATIONAL CONFERENCE ON INDUSTRIAL ENGINEERING, MANAGEMENT SCIENCE AND APPLICATION (ICIMSA 2017), P1
+   Raghuwanshi A, 2017, 2017 2ND IEEE INTERNATIONAL CONFERENCE ON RECENT TRENDS IN ELECTRONICS, INFORMATION & COMMUNICATION TECHNOLOGY (RTEICT), P719, DOI 10.1109/RTEICT.2017.8256691
+NR 17
+TC 4
+Z9 4
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-9385-8
+PY 2018
+BP 229
+EP 234
+DI 10.1109/SITIS.2018.00042
+PG 6
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BM8IL
+UT WOS:000469258400031
+DA 2025-01-28
+ER
+
+EF
