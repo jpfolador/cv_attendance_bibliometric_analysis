@@ -6,10 +6,9 @@ This repository contains the data and scripts used in the article:
 
 Contents:
 
-* `data/scopus.csv`: metadata exported from Scopus.
-* `data/wos.txt`: metadata exported from Web of Science.
-* `data/merged_dataset.csv`: consolidated dataset after duplicate removal.
-* `bibliometric_analysis.R`: R script used to process data, perform bibliometric analyses, and generate figures.
+* `data/scopus*.csv`: metadata exported from Scopus.
+* `data/wos*.txt`: metadata exported from Web of Science.
+* `script_bibliometrix_analysis.R`: R script used to process data, perform bibliometric analyses, and generate figures.
 
 Software requirements:
 
